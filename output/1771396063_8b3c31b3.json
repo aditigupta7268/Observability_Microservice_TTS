@@ -1,0 +1,9 @@
+{
+    "id": "8b3c31b3",
+    "text": "Hello this is an observability test for TTS microservice.",
+    "filename": "1771396063_8b3c31b3.mp3",
+    "file_path": "C:\\Users\\intel\\Desktop\\TTS_Observability_microservice\\output\\1771396063_8b3c31b3.mp3",
+    "created_at": "2026-02-18T06:27:44.052847",
+    "file_size_bytes": 38400,
+    "latency_seconds": 0
+}

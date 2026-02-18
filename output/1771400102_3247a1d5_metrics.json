@@ -1,0 +1,288 @@
+{
+    "total_requests": 2.0,
+    "total_errors": 1771400039.1196716,
+    "latency_samples": [
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/docs",
+                "le": "0.005"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/docs",
+                "le": "0.01"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/docs",
+                "le": "0.025"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/docs",
+                "le": "0.05"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/docs",
+                "le": "0.075"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/docs",
+                "le": "0.1"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/docs",
+                "le": "0.25"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/docs",
+                "le": "0.5"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/docs",
+                "le": "0.75"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/docs",
+                "le": "1.0"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/docs",
+                "le": "2.5"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/docs",
+                "le": "5.0"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/docs",
+                "le": "7.5"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/docs",
+                "le": "10.0"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/docs",
+                "le": "+Inf"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_count",
+            "labels": {
+                "endpoint": "/docs"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_sum",
+            "labels": {
+                "endpoint": "/docs"
+            },
+            "value": 0.0017521381378173828
+        },
+        {
+            "name": "tts_latency_seconds_created",
+            "labels": {
+                "endpoint": "/docs"
+            },
+            "value": 1771400063.3696055
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/openapi.json",
+                "le": "0.005"
+            },
+            "value": 0.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/openapi.json",
+                "le": "0.01"
+            },
+            "value": 0.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/openapi.json",
+                "le": "0.025"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/openapi.json",
+                "le": "0.05"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/openapi.json",
+                "le": "0.075"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/openapi.json",
+                "le": "0.1"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/openapi.json",
+                "le": "0.25"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/openapi.json",
+                "le": "0.5"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/openapi.json",
+                "le": "0.75"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/openapi.json",
+                "le": "1.0"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/openapi.json",
+                "le": "2.5"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/openapi.json",
+                "le": "5.0"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/openapi.json",
+                "le": "7.5"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/openapi.json",
+                "le": "10.0"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_bucket",
+            "labels": {
+                "endpoint": "/openapi.json",
+                "le": "+Inf"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_count",
+            "labels": {
+                "endpoint": "/openapi.json"
+            },
+            "value": 1.0
+        },
+        {
+            "name": "tts_latency_seconds_sum",
+            "labels": {
+                "endpoint": "/openapi.json"
+            },
+            "value": 0.01890087127685547
+        },
+        {
+            "name": "tts_latency_seconds_created",
+            "labels": {
+                "endpoint": "/openapi.json"
+            },
+            "value": 1771400063.7548277
+        }
+    ]
+}
