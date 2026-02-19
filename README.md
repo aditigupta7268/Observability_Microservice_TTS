@@ -26,6 +26,7 @@ This project is ideal for developers, DevOps engineers, and system architects le
 
 ## 📁 Repository Structure
 Observability_Microservice_TTS/
+```
 ├── app/                       # Core application logic (business + observability)
 ├── output/                    # Generated telemetry outputs / artifacts
 ├── main.py                    # Microservice entrypoint
@@ -34,6 +35,7 @@ Observability_Microservice_TTS/
 ├── pyproject.toml             # Project metadata
 ├── uv.lock                    # Lockfile for dependency management
 ├── .python-version            # Python version config
+```
 
 ## 🛠️ Getting Started
 Prerequisites
