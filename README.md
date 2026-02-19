@@ -91,18 +91,19 @@ Note: Observability tooling (e.g., OpenTelemetry SDK) can be added to the servic
 ## ⚙️ Deployment
 
 This microservice can be deployed:
-
+```
 ✔ Locally (development)
 ✔ On container platforms via Docker
 ✔ As part of a larger set of microservices
-
+```
 Example Dockerfile snippet (optional):
-
+```
 FROM python:3.9-slim
 WORKDIR /app
 COPY . .
 RUN pip install --no-cache-dir -r requirements.txt
 CMD ["python", "main.py"]
+```
 
 ## 🧪 Extending the Service
 
